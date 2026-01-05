@@ -1,5 +1,6 @@
 ---
 title: journal entry - superar un bloqueo escritor
+date: 2026-01-04
 ---
 Ayer o anteayer, ya no recuerdo, vi un video que me dejo una idea insertada en el cerebro: escribir sobre cosas externas y dejar que ellas te lleven a lo interno.
 
