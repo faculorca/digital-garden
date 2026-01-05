@@ -5,17 +5,14 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bienvenido! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Mi nombre es Facundo, tengo 24 años, soy Ingeniero en Biotecnología y de a poco voy armando mi carrera en la escritura.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Este es un jardín digital, un pequeño rincón del internet en el que yo tengo control total. Acá hay notas en progreso, comentarios, ensayos y algo de ficción propia (o lo habrá). Como mi mente, este es un lugar un poco desordenado y diverso, pero interconectado. Con ideas sobre pensamiento crítico, ciencia ficción, transhumanismo, tecnologías y escritura *per se*.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-<strong>Recently updated notes</strong>
+<strong>Notas actualizadas recientemente</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
