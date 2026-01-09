@@ -97,4 +97,4 @@ Gracias por leer,
 -Facu
 
 PD - Este meme que compartió Austin Kleon me encantó:
-![[social media company for you tab meme.png]]
+![](https://substackcdn.com/image/fetch/$s_!I0bG!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec77a02a-163d-4db8-92b2-578c96a23514_1179x1349.jpeg)
