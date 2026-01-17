@@ -1,6 +1,5 @@
 ---
-title:
-  - jardin digital
+title: jardin digital
 date:
   - 2026-01-16
 category:
