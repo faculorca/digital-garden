@@ -8,7 +8,7 @@ permalink: /
 
 Mi nombre es Facundo, tengo 24 años, soy Ingeniero en Biotecnología y de a poco voy armando mi carrera en la escritura.
 
-Este es un [[jardín digital]], un pequeño rincón del internet en el que yo tengo control total. Acá hay notas en progreso, comentarios, ensayos y algo de ficción propia (o lo habrá). Como mi mente, este es un lugar un poco desordenado y diverso, pero interconectado. Con ideas sobre pensamiento crítico, ciencia ficción, transhumanismo, tecnologías y escritura *per se*.
+Este es un [[jardin digital]], un pequeño rincón del internet en el que yo tengo control total. Acá hay notas en progreso, comentarios, ensayos y algo de ficción propia (o lo habrá). Como mi mente, este es un lugar un poco desordenado y diverso, pero interconectado. Con ideas sobre pensamiento crítico, ciencia ficción, transhumanismo, tecnologías y escritura *per se*.
 
 
 <strong>Notas actualizadas recientemente</strong>

@@ -1,6 +1,6 @@
 ---
 title:
-  - jardín digital
+  - jardin digital
 date:
   - 2026-01-16
 category:
@@ -20,4 +20,4 @@ Este jardín lo armé siguiendo dos guías, la de [Maxime Vaillancourt](https://
 
 Llevo tomando muchas notas y escribiendo bastante desde finales de 2024, aunque a los 15 años ya estaba jugueteando con Obsidian, Notion y Roam. Siempre lo hice en privado, e incluso cuando escribí sobre los jardines digitales, ignoré el aspecto público que traen consigo. Pero ahora lo estoy intentado como parte de mi ejercicio de escribir más y más.
 
-Esta es una [[aprender en público|breve reflexión]] que escribí hace tiempo sobre aprender en público.
+Esta es una [[aprender en publico|breve reflexión]] que escribí hace tiempo sobre aprender en público.

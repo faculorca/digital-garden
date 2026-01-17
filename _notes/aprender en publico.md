@@ -1,6 +1,5 @@
 ---
-title:
-  - aprender en público
+title: aprender en publico
 date:
   - 2026-01-16
 category:
