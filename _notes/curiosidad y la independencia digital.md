@@ -1,5 +1,5 @@
 ---
-title: seguir la curiosidad y la independencia digital
+title: curiosidad y la independencia digital
 date:
   - 2026-01-07
 category:
