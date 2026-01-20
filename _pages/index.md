@@ -8,6 +8,7 @@ permalink: /
 
 Este es un [[jardin digital]], un pequeño rincón del internet en el que yo tengo control total. Acá hay notas en progreso, comentarios, ensayos y algo de ficción propia (o lo habrá). Como mi mente, este es un lugar un poco desordenado y diverso, pero interconectado. Con ideas sobre pensamiento crítico, ciencia ficción, transhumanismo, tecnologías y escritura *per se*.
 
+[[registros de escritura|Aquí]] estoy trabajando en este momento:
 
 <strong>Notas actualizadas recientemente</strong>
 
