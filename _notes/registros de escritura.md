@@ -1,6 +1,5 @@
 ---
-title:
-  - registros de escritura
+title: registros de escritura
 date:
   - 2026-01-17
 category:

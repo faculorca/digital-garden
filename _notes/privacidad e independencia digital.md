@@ -1,6 +1,5 @@
 ---
-title:
-  - privacidad e independencia digital
+title: privacidad e independencia digital
 date:
   - 2026-01-17
 category:
